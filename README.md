@@ -1,4 +1,4 @@
-# CaliforniaRoll
+# California Roll
 
 React native project from INFO 4235 "Special Topic in Web & Mobile"
 
