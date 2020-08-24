@@ -14,3 +14,5 @@ Used React Native to develop a food ordering and delivery app on both Android an
 
 •	Used marker animation to allow users track order delivery on the map 
 
+Demo: https://www.youtube.com/watch?v=J4dTLGpr8hQ&t=1s
+
